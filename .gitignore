@@ -10,7 +10,6 @@ composer.lock
 /Temp/
 /Config.php
 /easyswoole
-easyswoole.install
 src/swoole_log.txt
 
 # web
